@@ -1,0 +1,12 @@
+.table_grid tr{
+    padding-bottom:5px;
+}
+
+.table_grid td{
+    vertical-align:top;
+    width:75%;
+}
+
+.table_grid td.tree{
+    width:25%;
+}
